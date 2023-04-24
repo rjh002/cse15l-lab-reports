@@ -17,3 +17,5 @@ Step 3:
 Now that you have remotely connected you can try out different commands. Simply type them into the terminal and then hit enter. Some examples of commands are '''cd~''' '''cd''' '''ls -lat''' '''ls -a'''
 
 ![Image](Commands.png)
+![Image](Screenshot 2023-04-24 at 11.30.47 AM.png)
+
