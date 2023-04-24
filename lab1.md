@@ -18,7 +18,7 @@ This should now initiate the remote connection.
 
 Step 3:
 
-Now that you have remotely connected you can try out different commands. Simply type them into the terminal and then hit enter. Some examples of commands are 
+Now that you have remotely connected you can try out different commands. Simply type them into the terminal and then hit enter. Try different variations on both the remote computer and your computer. Some examples of commands are 
 ``` 
 cd~ 
 ``` 
