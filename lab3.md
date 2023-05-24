@@ -17,23 +17,30 @@ grep -r "2001"
 ```
 grep -r "American"
 ```
+![Image](Screenshot 2023-05-24 at 3.57.19 PM.png)
 
 This command looks for the strings in all the files and subdirectories. This is useful to look for things in multiple files and directories at once.
 
 ```
-grep -v "The" stringsearch-data/technical/911report/chapter-1.txt
+grep -v "The" chapter-1.txt
 ```
+![Image]()
 ```
-grep -v "All" stringsearch-data/technical/911report/chapter-1.txt
-'''
+grep -v "All" chapter-1.txt
+```
+![Image]()
+
 This command looks for all the lines in the file that do not contain the string. This is useful in order to filter out lines.
 
-'''
-grep -w "Washington" stringsearch-data/technical/911report/chapter-1.txt
 ```
+grep -w "Washington" chapter-1.txt
 ```
-grep -w "Shehhi" stringsearch-data/technical/911report/chapter-1.txt
+![Image]()
 ```
+grep -w "Shehhi" chapter-1.txt
+```
+![Image]()
+
 This command looks for the whole word that is given. This is useufl to filter out false positives and only get what you want.
 
 
