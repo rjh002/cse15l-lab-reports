@@ -35,7 +35,7 @@ This command looks for all the lines in the file that do not contain the string.
 ```
 grep -w "Washington" chapter-1.txt
 ```
-![Image]()
+![Image](Screenshot 2023-05-24 at 4.04.09 PM.png)
 ```
 grep -w "Shehhi" chapter-1.txt
 ```
