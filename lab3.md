@@ -1,6 +1,7 @@
 ```
 grep -i "we" chapter-1.txt
 ```
+![Image](Screenshot 2023-05-24 at 3.49.35 PM.png)
 
 ```
 grep -i "inside" chapter-1.txt
