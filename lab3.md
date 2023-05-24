@@ -13,6 +13,7 @@ This command looks for the string but ignores any of the casing. This is useful 
 ```
 grep -r "2001"
 ```
+![Image](Screenshot 2023-05-24 at 3.55.58 PM.png)
 ```
 grep -r "American"
 ```
