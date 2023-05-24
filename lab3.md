@@ -6,14 +6,15 @@ grep -i "we" chapter-1.txt
 ```
 grep -i "inside" chapter-1.txt
 ```
+![Image](Screenshot 2023-05-24 at 3.51.29 PM.png)
 
 This command looks for the string but ignores any of the casing. This is useful if you are not sure whether a word is uppercase or lowercase.
 
 ```
-grep -r "2001" technical/
+grep -r "2001"
 ```
 ```
-grep -r "American" technical/
+grep -r "American"
 ```
 
 This command looks for the strings in all the files and subdirectories. This is useful to look for things in multiple files and directories at once.
