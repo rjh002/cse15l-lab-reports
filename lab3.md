@@ -28,7 +28,7 @@ grep -v "The" chapter-1.txt
 ```
 grep -v "All" chapter-1.txt
 ```
-![Image]()
+![Image](Screenshot 2023-05-24 at 4.02.43 PM.png)
 
 This command looks for all the lines in the file that do not contain the string. This is useful in order to filter out lines.
 
