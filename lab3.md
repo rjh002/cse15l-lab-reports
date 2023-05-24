@@ -39,7 +39,7 @@ grep -w "Washington" chapter-1.txt
 ```
 grep -w "Shehhi" chapter-1.txt
 ```
-![Image]()
+![Image](Screenshot 2023-05-24 at 4.05.20 PM.png)
 
 This command looks for the whole word that is given. This is useufl to filter out false positives and only get what you want.
 
