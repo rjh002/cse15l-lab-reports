@@ -24,7 +24,7 @@ This command looks for the strings in all the files and subdirectories. This is 
 ```
 grep -v "The" chapter-1.txt
 ```
-![Image]()
+![Image](Screenshot 2023-05-24 at 4.01.27 PM.png)
 ```
 grep -v "All" chapter-1.txt
 ```
