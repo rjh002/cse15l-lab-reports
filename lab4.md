@@ -26,18 +26,21 @@ Then I hit
 ```
 <J>
 ```
+(moves cursor down)
 unitl I was on the right line.
 
 Then I hit
 ```
 <L>
 ```
+(moves cursor to the right)
 until I was hovering over the right character.
   
 Then I hit 
 ```
 <x>
 ```
+(deletes text which you are hovering over)
 
 Then I hit
 ```
