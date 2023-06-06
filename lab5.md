@@ -11,7 +11,7 @@ Student:
 
 I went in and noticed that I accidentally wrote index1 when I met to write index2. So I navigated to it using ```hjkl``` and then I hit ```i``` and delted the 1 and put 2.
 
-Now when I run the command to test it all the test pass.
+Now when I run the command to test it all the tests pass.
 
-!
+![Image](Screenshot 2023-06-05 at 10.56.30 PM.png)
 
