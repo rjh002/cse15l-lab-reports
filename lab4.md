@@ -55,9 +55,8 @@ Then to save I clicked
 ```
 
 Step 4: Commit and push git
-![Image](Screenshot 2023-05-22 at 5.41.24 PM.png)
-  
-Then I did
+
+First I did
 ```
 git add ListExamples.java
 ```
@@ -67,4 +66,4 @@ git commit -m ListExamples.java
 ```
 in order to save it all.
 
-![Image]
+![Image]()
