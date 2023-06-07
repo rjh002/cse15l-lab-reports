@@ -54,7 +54,7 @@ Then to save I clicked
 :wq <Enter>
 ```
 
-Step 4: Commit and push git
+Step 4: Commit
 
 First I did
 ```
