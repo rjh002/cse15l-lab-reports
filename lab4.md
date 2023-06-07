@@ -59,7 +59,12 @@ Step 4: Commit and push git
   
 Then I did
 ```
-git commit ListExamples.java
+git add ListExamples.java
+```
+Then
+```
+git commit -m ListExamples.java
 ```
 in order to save it all.
-  
+
+![Image]
